@@ -22,9 +22,3 @@ I work with Python, C++, C, HTML, and SQL to build projects and improve my skill
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
----
-
-## 📊 GitHub Stats:
-![Melisa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MelisaZS&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaZS&layout=compact&theme=radical)  
